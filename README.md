@@ -53,6 +53,6 @@ Open to senior backend, payments infrastructure, crypto infrastructure, fintech 
 
 <div align="center">
 
-Hyderabad, India · [prasanthkuna@gmail.com](mailto:prasanthkuna@gmail.com)
+Hyderabad, India · [prasanthkuna@gmail.com](mailto:prasanthkuna@gmail.com) · [@prasanth_kuna](https://x.com/prasanth_kuna)
 
 </div>
