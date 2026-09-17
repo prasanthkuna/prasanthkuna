@@ -31,7 +31,7 @@ I build systems that keep money movement correct under retries, concurrency, cra
 
 Railguard combines a Go authority engine, OPA/Rego policy, Redis reservations, Postgres audit trails, Solidity execution enforcement, an ERC-4337 session model, a TypeScript SDK, and reconciliation.
 
-**Reviewer path:** [Portfolio guide](https://github.com/prasanthkuna/railguard-protocol/blob/master/docs/PORTFOLIO.md) · [Failure modes](https://github.com/prasanthkuna/railguard-protocol/blob/master/docs/FAILURE_MODES_FIXED.md) · [Security review](https://github.com/prasanthkuna/railguard-protocol/blob/master/docs/SECURITY_REVIEW.md)
+**Reviewer path:** [Portfolio guide](https://github.com/prasanthkuna/railguard-protocol/blob/master/docs/PORTFOLIO.md) · [Failure modes](https://github.com/prasanthkuna/railguard-protocol/blob/master/docs/FAILURE_MODES.md) · [Security review](https://github.com/prasanthkuna/railguard-protocol/blob/master/docs/SECURITY_REVIEW.md)
 
 ```bash
 git clone https://github.com/prasanthkuna/railguard-protocol.git
